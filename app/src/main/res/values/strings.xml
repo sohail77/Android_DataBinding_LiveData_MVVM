@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Heading">Start Rating</string>
+    <string name="remember">Remember to be polite</string>
+    <string name="rate">Click to rate</string>
+    <string name="cat_name">Cat Name</string>
+    <string name="Cute">Cute</string>
+    <string name="not_cute">Not Cute</string>
+    <string name="being_cute_is_our_super_power_we_are_deadly_purrrrr">we look cute but we are deadly purrrrr..</string>
+</resources>
